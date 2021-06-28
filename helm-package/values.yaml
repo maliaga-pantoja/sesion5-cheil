@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 
 image:
-  repository: "ghcr.io/maliaga-pantoja/toreto"
-  tag: "8e50197a575ef3291887474e021ecfbeccf8b865"
+  repository: "ghcr.io/maliaga-pantoja/sesion5"
+  tag: "bc87fc77a74963b6c18bce8f7d32bc0d75b76008"
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
 
